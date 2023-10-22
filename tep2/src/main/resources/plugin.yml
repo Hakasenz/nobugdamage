@@ -1,0 +1,3 @@
+name: tep2
+version: '${version}'
+main: hakasenz.tep2.Tep2
